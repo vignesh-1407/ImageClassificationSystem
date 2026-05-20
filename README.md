@@ -150,4 +150,4 @@ After training and evaluation, the `outputs/` folder contains:
 
 ---
 
-*Built with the **Antigravity Platform** for AI-assisted development.*
+*This project is a CNN-based Image Classification System developed using Python, TensorFlow, and Keras. It classifies CIFAR-10 images into 10 categories and includes training, prediction, evaluation, and GUI support..*
